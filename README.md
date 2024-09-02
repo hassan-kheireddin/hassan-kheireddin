@@ -1,20 +1,16 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hassan-kheireddin.hassan-kheireddin" />
+- 👋 Hi, I’m Tim
+- 👀 I’m interested in learning to code efficiently
+- 🌱 I’m currently working fulltime at [IDS Imaging](https://ids-imaging.com/) as Software Developer
+- 📫 How to reach me:
+- - Discord: `CustosScriptis`
+- - Slack: `tblaase` (42born2code)
+- - Email: `tblaase@student.42heilbronn.de`
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋 I'm+Pedro+Muniz!;" />
-</h1>
+<!---[![Tim's GitHub stats](https://github-readme-stats.vercel.app/api?username=tblaase&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)<br>--->
+<!---[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&email=hide&leet_logo=hide&login=tblaase)](https://profile.intra.42.fr/users/tblaase)--->
+![Metrics](https://github.com/hassan-kheireddin/hassan-kheireddin/blob/main/github-metrics.svg)
 
-<!--
-**hassan-kheireddin/hassan-kheireddin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hassan-kheireddin&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)<br>
+<br>
+<br>
+![Profile views](https://profile-counter.glitch.me/hassan-kheireddin/count.svg)
