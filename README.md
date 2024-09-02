@@ -6,10 +6,8 @@
 
 <div align="center">
  
- 🔭 I’m currently student at **42 Beirut**
- 
- 🌱 I’m currently learning **Core curriculum(42), AI, AWS**
-
+ 🔭 I’m currently student at **42 Beirut**<br><br>
+ 🌱 I’m currently learning **Core curriculum(42), AI, AWS**<br><br>
 How to reach me:
 <br>
  Slack: `hkheired` (42born2code)<br>
