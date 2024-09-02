@@ -1,10 +1,9 @@
-- 👋 Hi, I’m Tim
+- 👋 Hi, I’m Hassan
 - 👀 I’m interested in learning to code efficiently
-- 🌱 I’m currently working fulltime at [IDS Imaging](https://ids-imaging.com/) as Software Developer
+- 🌱 I’m currently student at 42 Beirut
 - 📫 How to reach me:
-- - Discord: `CustosScriptis`
-- - Slack: `tblaase` (42born2code)
-- - Email: `tblaase@student.42heilbronn.de`
+- - Slack: `hkheired` (42born2code)
+- - linkdein : `https://www.linkedin.com/in/hassan-kheireddin`
 
 <!---[![Tim's GitHub stats](https://github-readme-stats.vercel.app/api?username=tblaase&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)<br>--->
 <!---[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&email=hide&leet_logo=hide&login=tblaase)](https://profile.intra.42.fr/users/tblaase)--->
