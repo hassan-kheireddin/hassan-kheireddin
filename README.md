@@ -1,6 +1,6 @@
 <h1 align="center"> 👋 Hi, I’m Hassan </h1>
 <br>
-<h3 align="center">A passionate ai developer</h3>
+<h3 align="center">A passionate AI developer</h3>
 
 <br/>
 
