@@ -11,7 +11,8 @@
 How to reach me:
 <br>
 **slack**: `hkheired` (42born2code) <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /><br>
-**Linkedin**: `Hassan Kheireddin`<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+**Linkedin**: `Hassan Kheireddin` linkedin.com/in/hassan-kheireddin-bab04a2a3 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> <br>
+**Gmail**: hassankheireddin0@gmail.com
 
 <hr/>
 
