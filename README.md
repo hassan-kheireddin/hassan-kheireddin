@@ -1,18 +1,17 @@
-<h1 align="center"> 👋 Hi, I’m Hassan </h1>
+<h1 align="center"> 👋 Hi, I’m Hassan Kheireddin</h1>
 <br>
-<h3 align="center">A passionate AI developer</h3>
-
-<br/>
 
 <div align="center">
- 
+  
+ 👀 I’m interested in Machine Learning and Software Engineering<br><br>
  🔭 I’m currently student at **42 Beirut** <img src="https://img.shields.io/badge/%20 Beirut-000000?style=for-the-badge&logo=42&logoColor=white" /><br><br>
- 🌱 I’m currently learning **Core curriculum(42), AI, AWS**<br><br>
+ 🌱 I’m currently learning Core curriculum(42),learning latest machine learning approaches<br><br>
+ 💞️ I’m looking to collaborate on anything related to machine learning and artificial intelligence,python ml frameworks (TF and PyTorch).<br>
+ <br><br>
 How to reach me:
 <br>
 **slack**: `hkheired` (42born2code) <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /><br>
-**Linkedin**: `Hassan Kheireddin` linkedin.com/in/hassan-kheireddin-bab04a2a3 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> <br>
-**Gmail**: hassankheireddin0@gmail.com
+**Gmail**: hassankhdireddin@gmail.com
 
 <hr/>
 
