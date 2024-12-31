@@ -10,7 +10,7 @@
  <br><br>
 How to reach me:
 <br>
-**Linkedin**: www.linkedin.com/in/hassan-kheireddin-bab04a2a3
+**Linkedin**: www.linkedin.com/in/hassan-kheireddin-bab04a2a3<br>
 **Gmail**: hassankhdireddin@gmail.com
 
 <hr/>
