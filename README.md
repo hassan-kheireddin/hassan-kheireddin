@@ -10,7 +10,7 @@
  <br><br>
 How to reach me:
 <br>
-**slack**: `hkheired` (42born2code) <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /><br>
+**Linkedin**: www.linkedin.com/in/hassan-kheireddin-bab04a2a3
 **Gmail**: hassankhdireddin@gmail.com
 
 <hr/>
