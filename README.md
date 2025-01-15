@@ -3,7 +3,7 @@
 
 <div align="center">
   
- 👀 I’m interested in Machine Learning, MLOps, LLMs, and AI Engineering<br><br>
+ 👀 I’m interested in Machine Learning, Deep Learning, MLOps, LLMs, NLP, Computer Vision, and AI Engineering<br><br>
  🔭 I’m currently student at **42 Beirut** <img src="https://img.shields.io/badge/%20 Beirut-000000?style=for-the-badge&logo=42&logoColor=white" /><br><br>
  🌱 I’m currently learning Core curriculum(42),learning latest machine learning approaches<br><br>
  💞️ I’m looking to collaborate on anything related to machine learning and artificial intelligence,python ml frameworks (TF and PyTorch).<br>
