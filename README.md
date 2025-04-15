@@ -3,10 +3,9 @@
 
 <div align="center">
   
- 👀 I’m interested in Machine Learning, Deep Learning, MLOps, LLMs, NLP, Computer Vision, and AI Engineering<br><br>
- 🔭 I’m currently student at **Lebanese University** & **42 Beirut** <img src="https://img.shields.io/badge/%20 Beirut-000000?style=for-the-badge&logo=42&logoColor=white" /><br><br>
- 🌱 I’m currently learning Core curriculum(42), and latest machine learning approaches<br><br>
- 💞️ I’m looking to collaborate on anything related to machine learning and artificial intelligence,python ml frameworks (TF and PyTorch).<br>
+ 🔭 I’m currently working on 42 Beirut projects, Machine Learning projects<br>
+ 👯 I’m looking to collaborate on AI,  Machine Learning, Deep Learning, MLOps, LLMs, NLP, Computer Vision, and Data Science<br>
+ 🌱 I’m currently learning latest Machine Learning approaches
  <br><br>
 How to reach me:
 <br>
@@ -14,13 +13,12 @@ How to reach me:
 **Email**: HassanKheireddin@outlook.com
 
 <hr/>
-
-<div align="center">
-
-</div>
-
+# 📊 GitHub Stats:
+<br>
+![](https://github-readme-stats.vercel.app/api?username=hassan-kheireddin&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=hassan-kheireddin&theme=blue_navy&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hassan-kheireddin&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <hr/>
-
 <div align=center>
 <h2>Skills</h2>
  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
