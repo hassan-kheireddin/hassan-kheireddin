@@ -10,16 +10,13 @@
  <br><br>
 How to reach me:
 <br>
-**Linkedin**: www.linkedin.com/in/hassan-kheireddin-bab04a2a3<br>
-**Gmail**: hassankhdireddin@gmail.com
+**Linkedin**: www.linkedin.com/in/hassan-kheireddin<br>
+**Email**: HassanKheireddin@outlook.com
 
 <hr/>
 
 <div align="center">
- 
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+
 </div>
 
 <hr/>
