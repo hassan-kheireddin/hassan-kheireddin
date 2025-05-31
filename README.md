@@ -22,6 +22,8 @@ How to reach me:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hassan-kheireddin&theme=blue_navy&hide_border=false&layout=compact)
 
+<img src="https://komarev.com/ghpvc/?username=hassan-kheireddin&label=Profile%20views&color=0e75b6&style=flat" alt="hassan-kheireddin" />
+
 <hr/>
 <div align=center>
   
