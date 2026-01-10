@@ -9,8 +9,8 @@
  <br><br>
 How to reach me:
 <br>
-**Linkedin**: www.linkedin.com/in/hassan-kheireddin<br>
-**Email**: HassanKheireddin@outlook.com
+**Linkedin**: www.linkedin.com/in/hasan-kheireddin<br>
+**Email**: hassankheireddin0@gmail.com
 
 <hr>
 
