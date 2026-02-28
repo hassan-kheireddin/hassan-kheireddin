@@ -1,10 +1,10 @@
 <!-- ===== HEADER WAVE ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0e4429&height=220&section=header&text=Hassan%20Kheireddin&fontColor=58a6ff&fontSize=42&fontAlignY=35&desc=Software%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Data%20Engineering&descAlignY=55&descSize=18&descColor=8b949e&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0e4429&height=220&section=header&text=Hassan%20Kheireddin&fontColor=58a6ff&fontSize=42&fontAlignY=35&desc=Backend%20Developer%20%7C%20Data%20Engineer%20%7C%20AWS%20Cloud%20Architect&descAlignY=55&descSize=18&descColor=8b949e&animation=fadeIn"/>
 
 <!-- ===== TYPING SVG ===== -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=650&lines=Building+scalable+data+pipelines+%26+cloud+systems;Data+Engineering+%7C+Data+Analytics+%7C+ETL+%7C+BI;AWS+%7C+GCP+%7C+Azure+Cloud+Architect;42+Beirut+%7C+Lifelong+Learner" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=Backend+Developer+%7C+Django+%7C+REST+APIs;Data+Engineering+%7C+ETL+Pipelines+%7C+Data+Warehousing;AWS+Cloud+Architect+%7C+GCP;Lebanese+University+%7C+42+Beirut" alt="Typing SVG" />
   </a>
 </p>
 
@@ -28,22 +28,14 @@
 
 ### About Me
 
-- 🎓 **42 Beirut** student — mastering software through peer learning
-- 🔭 Currently working on **Data Engineering** & **Cloud Infrastructure**
-- 📊 Passionate about **ETL Pipelines, Data Warehousing, Analytics & BI**
-- ☁️ Building scalable data systems on **AWS, GCP & Azure**
-- 🧠 Always exploring the latest in **Big Data, Streaming & Data Lakehouse**
-- ⚡ Fun fact: I debug with `print()` before reaching for the debugger
+- 🎓 **Lebanese University** & **42 Beirut** software engineering background
+- 🔭 Currently building **Backend systems with Django** & **Data Pipelines**
+- 📊 Passionate about **Data Engineering, ETL, Data Warehousing & Analytics**
+- ☁️ Cloud architect on **AWS (primary)** & **GCP**
+- 🛠️ Building robust **REST APIs, microservices & scalable backends**
+
 
 <br clear="right"/>
-
----
-
-<!-- ===== GITHUB TROPHIES ===== -->
-<h2 align="center">🏆 GitHub Trophies</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hassan-kheireddin&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
-</p>
 
 ---
 
@@ -75,12 +67,24 @@
     <td align="center" width="160"><strong>💻 Languages</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+      <img src="https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
       <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
       <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
       <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>🌐 Backend</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
     </td>
   </tr>
   <tr>
@@ -103,7 +107,7 @@
       <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
       <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
       <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white"/>
     </td>
   </tr>
   <tr>
@@ -111,9 +115,6 @@
     <td>
       <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
       <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-      <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
     </td>
   </tr>
   <tr>
@@ -122,12 +123,13 @@
       <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
       <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/>
       <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
-      <img src="https://img.shields.io/badge/EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white"/>
-      <img src="https://img.shields.io/badge/ECS-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white"/>
       <img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Route53-8C4FFF?style=for-the-badge&logo=amazonroute53&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Glue-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+      <img src="https://img.shields.io/badge/ECS-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white"/>
       <img src="https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazoniam&logoColor=white"/>
       <img src="https://img.shields.io/badge/VPC-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white"/>
     </td>
   </tr>
   <tr>
@@ -137,7 +139,8 @@
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
       <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
     </td>
   </tr>
 </table>
