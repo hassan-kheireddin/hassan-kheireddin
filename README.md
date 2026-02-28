@@ -39,26 +39,6 @@
 
 ---
 
-<!-- ===== STATS SECTION ===== -->
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hassan-kheireddin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  &nbsp;
-  <img width="49%" src="https://streak-stats.demolab.com?user=hassan-kheireddin&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=ff6e40&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hassan-kheireddin&theme=tokyonight" alt="Top Languages by Repo"/>
-</p>
-
-<!-- ===== CONTRIBUTION GRAPH ===== -->
-<p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=hassan-kheireddin&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
-</p>
-
----
-
 <!-- ===== TECH STACK ===== -->
 <h2 align="center">🛠️ Tech Stack & Tools</h2>
 
@@ -144,24 +124,32 @@
 
 ---
 
-<!-- ===== SNAKE ANIMATION ===== -->
-<h2 align="center">🐍 Contribution Snake</h2>
+<!-- ===== STATS SECTION ===== -->
+<h2 align="center">📊 GitHub Stats</h2>
+
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hassan-kheireddin/hassan-kheireddin/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hassan-kheireddin/hassan-kheireddin/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/hassan-kheireddin/hassan-kheireddin/output/github-snake-dark.svg" />
-  </picture>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hassan-kheireddin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  &nbsp;
+  <img width="49%" src="https://streak-stats.demolab.com?user=hassan-kheireddin&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=ff6e40&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
 </p>
 
-> 💡 *To enable the snake animation, add a GitHub Actions workflow — see [Platane/snk](https://github.com/Platane/snk) for setup.*
+<p align="center">
+  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hassan-kheireddin&theme=tokyonight" alt="Top Languages by Repo"/>
+</p>
+
+<!-- ===== CONTRIBUTION GRAPH ===== -->
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=hassan-kheireddin&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
+</p>
 
 ---
 
-<!-- ===== RANDOM DEV QUOTE ===== -->
-<h2 align="center">💬 Random Dev Quote</h2>
+<!-- ===== PROFILE SUMMARY ===== -->
+<h2 align="center">📌 Profile Summary</h2>
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hassan-kheireddin&theme=tokyonight" alt="Profile Details"/>
+  &nbsp;
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hassan-kheireddin&theme=tokyonight&utcOffset=3" alt="Productive Time"/>
 </p>
 
 ---
