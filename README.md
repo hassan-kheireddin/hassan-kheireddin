@@ -10,14 +10,12 @@
 
 <!-- ===== PROFILE BADGES ===== -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hassan-kheireddin&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-  &nbsp;
-  <a href="https://github.com/hassan-kheireddin?tab=followers">
-    <img src="https://img.shields.io/github/followers/hassan-kheireddin?label=Followers&style=for-the-badge&color=236ad3&labelColor=1155ba&logo=github" alt="GitHub Followers"/>
+  <a href="https://www.linkedin.com/in/hassan-kheireddin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="https://github.com/hassan-kheireddin?tab=repositories">
-    <img src="https://img.shields.io/github/stars/hassan-kheireddin?label=Total%20Stars&style=for-the-badge&color=daa520&labelColor=b8860b&logo=github" alt="GitHub Stars"/>
+  <a href="mailto:hassankheireddin0@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
@@ -150,24 +148,6 @@
   &nbsp;
 </p>
 
-  
----
-
-<!-- ===== CONNECT ===== -->
-<h2 align="center">🤝 Let's Connect</h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/hassan-kheireddin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="mailto:hassankheireddin0@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/hassan-kheireddin">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
 
 ---
 
