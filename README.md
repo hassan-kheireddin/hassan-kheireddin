@@ -127,13 +127,11 @@
 <!-- ===== STATS SECTION ===== -->
 <h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hassan-kheireddin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  &nbsp;
+
   <img width="49%" src="https://streak-stats.demolab.com?user=hassan-kheireddin&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=ff6e40&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
+<p>
   <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hassan-kheireddin&theme=tokyonight" alt="Top Languages by Repo"/>
 </p>
 
@@ -147,11 +145,14 @@
 <!-- ===== PROFILE SUMMARY ===== -->
 <h2 align="center">📌 Profile Summary</h2>
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hassan-kheireddin&theme=tokyonight" alt="Profile Details"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hassan-kheireddin&theme=tokyonight" alt="GitHub Stats"/>
   &nbsp;
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hassan-kheireddin&theme=tokyonight&utcOffset=3" alt="Productive Time"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hassan-kheireddin&theme=tokyonight" alt="Profile Details"/>
+  &nbsp;
 </p>
 
+  
 ---
 
 <!-- ===== CONNECT ===== -->
