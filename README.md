@@ -127,11 +127,9 @@
 <!-- ===== STATS SECTION ===== -->
 <h2 align="center">📊 GitHub Stats</h2>
 
-
-  <img width="49%" src="https://streak-stats.demolab.com?user=hassan-kheireddin&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=ff6e40&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
-</p>
-
 <p>
+  <img width="49%" src="https://streak-stats.demolab.com?user=hassan-kheireddin&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=ff6e40&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
+    &nbsp;
   <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hassan-kheireddin&theme=tokyonight" alt="Top Languages by Repo"/>
 </p>
 
