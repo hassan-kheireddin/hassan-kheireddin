@@ -50,8 +50,6 @@
 
 <p align="center">
   <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hassan-kheireddin&theme=tokyonight" alt="Top Languages by Repo"/>
-  &nbsp;
-  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hassan-kheireddin&theme=tokyonight" alt="Top Languages by Commit"/>
 </p>
 
 <!-- ===== CONTRIBUTION GRAPH ===== -->
