@@ -1,5 +1,5 @@
 <!-- ===== HEADER WAVE ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0e4429&height=220&section=header&text=Hassan%20Kheireddin&fontColor=58a6ff&fontSize=42&fontAlignY=35&desc=Software%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Data%20Engineer&descAlignY=55&descSize=18&descColor=8b949e&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0e4429&height=220&section=header&text=Hassan%20Kheireddin&fontColor=58a6ff&fontSize=42&fontAlignY=35&desc=Software%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Data%20Engineering&descAlignY=55&descSize=18&descColor=8b949e&animation=fadeIn"/>
 
 <!-- ===== TYPING SVG ===== -->
 <p align="center">
